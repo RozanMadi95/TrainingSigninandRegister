@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> نموذج الدخول </string>
+    <string name="Signin_et_username">اسم المستخدم</string>
+    <string name="Signin_et_Password">كلمة السر</string>
+    <string name="Signin_btn_Signin">تسجيل الدخول</string>
+    <string name="Signin_tv_No_account">لا يوجد حساب بعد!!</string>
+    <string name="Signin_tv_Create_one"> إنشاء واحداً </string>
+    <string name="Signin_tv_or"> أو</string>
+    <string name="btn_Signin_Facebook">تسجيل الدخول باستخدام فيسبوك</string>
+    <string name="Signin_btn_Signin_Google">تسجيل الدخول باستخدام جوجل</string>
+
+    <string name="Register_tv_form_name">نموذج تسجيل</string>
+    <string name="Register_et_username">اسم المستخدم</string>
+    <string name="Register_et_fullname">الاسم كامل</string>
+    <string name="Register_et_email">البريد الإلكتروني</string>
+    <string name="Register_et_Password">كلمة السر</string>
+    <string name="Register_et_rePassword">اعد كتابة كلمة السر</string>
+    <string name="Register_tv_gender">الجنس</string>
+    <string name="Register_rbtn_male">ذكر</string>
+    <string name="Register_rbtn_femal">انثى</string>
+    <string name="Register_btn_Register">تسجيل</string>
+    <string name="Register_btn_Register_face">سجل باستخدام فيسبوك</string>
+
+    <string name="say_btn_hello_name">الصفحة الرئيسية</string>
+
+
+</resources>

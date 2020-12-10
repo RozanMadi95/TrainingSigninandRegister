@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="Signin_et_username">User name</string>
+    <string name="Signin_et_Password">Password</string>
+    <string name="Signin_btn_Signin">Sign In</string>
+    <string name="Signin_tv_No_account">No account yet?</string>
+    <string name="Signin_tv_Create_one"> Create one </string>
+    <string name="Signin_tv_or"> OR </string>
+    <string name="btn_Signin_Facebook">Sign in with Facebook</string>
+    <string name="Signin_btn_Signin_Google">Sign in with Google</string>
+
+    <string name="Register_tv_form_name">Registration Form</string>
+    <string name="Register_et_username">User name</string>
+    <string name="Register_et_fullname">Full Name</string>
+    <string name="Register_et_email">Email</string>
+    <string name="Register_et_Password">Password</string>
+    <string name="Register_et_rePassword">Re-Type Password</string>
+    <string name="Register_tv_gender">Gender</string>
+    <string name="Register_rbtn_male">Male</string>
+    <string name="Register_rbtn_femal">Female</string>
+    <string name="Register_btn_Register">Register</string>
+    <string name="Register_btn_Register_face">Register with Facebook</string>
+
+    <string name="say_btn_hello_name">Home Page</string>
+
+
+</resources>
